@@ -11,6 +11,7 @@ git branch                   # show branch
 git branch dev               # create branch dev
 git checkout dev             # change branch to dev
 ```
+> create new branch
 ## Git Merge
 ```
 git checkout dev             # switch to dev
@@ -23,3 +24,4 @@ git pull                     # download somw changes
 git merge dev                # merge dev to main
 git push                     # push changes
 ```
+> merge dev to master
